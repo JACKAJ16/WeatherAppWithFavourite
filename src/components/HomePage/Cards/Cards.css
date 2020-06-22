@@ -1,0 +1,12 @@
+.cards {
+    padding-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 50%;
+    min-height: 400px;
+}
+
+.favourite-empty {
+    margin: 10px auto 0;
+}

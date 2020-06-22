@@ -1,0 +1,18 @@
+.input {
+    margin: 0 auto;
+    max-width: 700px;
+    margin-bottom: 50px;
+}
+
+.input__search {
+    width: 600px;
+    padding: 5px;
+}
+
+.input__submit {
+    padding: 5px;
+}
+
+.input__submit:hover:enabled {
+    cursor: pointer;
+}

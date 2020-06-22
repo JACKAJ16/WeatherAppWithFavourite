@@ -1,0 +1,15 @@
+.searchedweather {
+    width: 50%;
+    border-right: 1px solid lightgrey;
+}
+
+.searchedweather__inner {
+    max-width: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.weather-empty {
+    margin-top: 10px;
+    text-align: center;
+}

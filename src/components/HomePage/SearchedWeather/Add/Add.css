@@ -1,0 +1,18 @@
+.add {
+    border-radius: 10px;
+    border: 1px solid lightgrey;
+    background: lightgreen;
+    color: #000;
+    padding: 5px;
+    outline: none;
+}
+
+.add:hover {
+    cursor: pointer;
+    background: #4ee44e;
+}
+
+.add:disabled {
+    opacity: .5;
+    cursor: not-allowed;
+}

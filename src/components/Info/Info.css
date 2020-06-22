@@ -1,0 +1,8 @@
+.info {
+    border: 1px solid lightgrey;
+    max-width: 1000px;
+    margin: 70px auto 0;
+    padding-top: 30px;
+    padding-bottom: 30px;        
+    text-align: center;
+}
